@@ -1,0 +1,455 @@
+{
+    "date": "2021-11-22T11:05:03",
+    "operation": {
+        "operation_3552": {
+            "name": "Microscope image visualisation",
+            "depth": 2,
+            "strict_ids": [
+                "eman",
+                "scipion",
+                "spider",
+                "xmipp"
+            ],
+            "total_ids": [
+                "eman",
+                "scipion",
+                "spider",
+                "xmipp"
+            ],
+            "strict_count": 4,
+            "total_count": 4
+        },
+        "operation_0004": {
+            "name": "Operation",
+            "depth": 0,
+            "strict_ids": [],
+            "total_ids": [
+                "imagic",
+                "scipion",
+                "ccp4",
+                "chimera",
+                "xmipp",
+                "2dx",
+                "frealign",
+                "tom",
+                "spider",
+                "ccpem",
+                "xplore3d",
+                "mrc_image_processing_package",
+                "eman",
+                "multifit",
+                "scipion_web_agents",
+                "imod"
+            ],
+            "strict_count": 0,
+            "total_count": 16
+        },
+        "operation_0337": {
+            "name": "Visualisation",
+            "depth": 1,
+            "strict_ids": [
+                "xplore3d"
+            ],
+            "total_ids": [
+                "scipion",
+                "ccp4",
+                "chimera",
+                "xmipp",
+                "spider",
+                "xplore3d",
+                "mrc_image_processing_package",
+                "eman"
+            ],
+            "strict_count": 1,
+            "total_count": 8
+        },
+        "operation_0297": {
+            "name": "3D profile generation",
+            "depth": 2,
+            "strict_ids": [
+                "xplore3d",
+                "eman",
+                "xmipp",
+                "spider"
+            ],
+            "total_ids": [
+                "xplore3d",
+                "eman",
+                "xmipp",
+                "spider"
+            ],
+            "strict_count": 4,
+            "total_count": 4
+        },
+        "operation_2945": {
+            "name": "Analysis",
+            "depth": 1,
+            "strict_ids": [
+                "tom"
+            ],
+            "total_ids": [
+                "imagic",
+                "scipion",
+                "ccp4",
+                "chimera",
+                "xmipp",
+                "2dx",
+                "frealign",
+                "tom",
+                "spider",
+                "ccpem",
+                "xplore3d",
+                "mrc_image_processing_package",
+                "eman",
+                "multifit",
+                "scipion_web_agents",
+                "imod"
+            ],
+            "strict_count": 1,
+            "total_count": 16
+        },
+        "operation_2480": {
+            "name": "Structure analysis",
+            "depth": 2,
+            "strict_ids": [
+                "mrc_image_processing_package",
+                "chimera"
+            ],
+            "total_ids": [
+                "scipion",
+                "ccp4",
+                "chimera",
+                "xmipp",
+                "spider",
+                "ccpem",
+                "xplore3d",
+                "mrc_image_processing_package",
+                "eman",
+                "multifit",
+                "scipion_web_agents"
+            ],
+            "strict_count": 2,
+            "total_count": 11
+        },
+        "operation_3429": {
+            "name": "Generation",
+            "depth": 1,
+            "strict_ids": [],
+            "total_ids": [
+                "xplore3d",
+                "eman",
+                "xmipp",
+                "spider"
+            ],
+            "strict_count": 0,
+            "total_count": 4
+        },
+        "operation_3457": {
+            "name": "Single particle analysis",
+            "depth": 3,
+            "strict_ids": [
+                "eman"
+            ],
+            "total_ids": [
+                "eman",
+                "ccpem"
+            ],
+            "strict_count": 1,
+            "total_count": 2
+        },
+        "operation_3443": {
+            "name": "Image analysis",
+            "depth": 2,
+            "strict_ids": [
+                "imagic",
+                "2dx",
+                "frealign",
+                "spider",
+                "mrc_image_processing_package"
+            ],
+            "total_ids": [
+                "imagic",
+                "2dx",
+                "frealign",
+                "spider",
+                "ccpem",
+                "mrc_image_processing_package",
+                "eman"
+            ],
+            "strict_count": 5,
+            "total_count": 7
+        },
+        "operation_0570": {
+            "name": "Structure visualisation",
+            "depth": 2,
+            "strict_ids": [
+                "mrc_image_processing_package",
+                "ccp4",
+                "chimera"
+            ],
+            "total_ids": [
+                "mrc_image_processing_package",
+                "ccp4",
+                "chimera"
+            ],
+            "strict_count": 3,
+            "total_count": 3
+        },
+        "operation_3445": {
+            "name": "Diffraction data analysis",
+            "depth": 3,
+            "strict_ids": [
+                "ccp4"
+            ],
+            "total_ids": [
+                "ccp4"
+            ],
+            "strict_count": 1,
+            "total_count": 1
+        },
+        "operation_0477": {
+            "name": "Protein modelling",
+            "depth": 2,
+            "strict_ids": [
+                "multifit",
+                "ccpem"
+            ],
+            "total_ids": [
+                "multifit",
+                "ccpem"
+            ],
+            "strict_count": 2,
+            "total_count": 2
+        },
+        "operation_2423": {
+            "name": "Prediction and recognition",
+            "depth": 1,
+            "strict_ids": [],
+            "total_ids": [
+                "multifit",
+                "ccpem"
+            ],
+            "strict_count": 0,
+            "total_count": 2
+        },
+        "operation_0474": {
+            "name": "Protein structure prediction",
+            "depth": 2,
+            "strict_ids": [],
+            "total_ids": [
+                "multifit",
+                "ccpem"
+            ],
+            "strict_count": 0,
+            "total_count": 2
+        },
+        "operation_2426": {
+            "name": "Modelling and simulation",
+            "depth": 1,
+            "strict_ids": [
+                "xplore3d"
+            ],
+            "total_ids": [
+                "xplore3d",
+                "multifit",
+                "ccpem"
+            ],
+            "strict_count": 1,
+            "total_count": 3
+        },
+        "operation_2403": {
+            "name": "Sequence analysis",
+            "depth": 2,
+            "strict_ids": [],
+            "total_ids": [
+                "multifit",
+                "ccpem"
+            ],
+            "strict_count": 0,
+            "total_count": 2
+        },
+        "operation_2479": {
+            "name": "Protein sequence analysis",
+            "depth": 3,
+            "strict_ids": [],
+            "total_ids": [
+                "multifit",
+                "ccpem"
+            ],
+            "strict_count": 0,
+            "total_count": 2
+        },
+        "operation_2406": {
+            "name": "Protein structure analysis",
+            "depth": 3,
+            "strict_ids": [],
+            "total_ids": [
+                "multifit",
+                "scipion_web_agents",
+                "scipion",
+                "ccpem"
+            ],
+            "strict_count": 0,
+            "total_count": 4
+        },
+        "operation_3458": {
+            "name": "Single particle alignment and classification",
+            "depth": 2,
+            "strict_ids": [
+                "ccpem"
+            ],
+            "total_ids": [
+                "ccpem"
+            ],
+            "strict_count": 1,
+            "total_count": 1
+        },
+        "operation_2990": {
+            "name": "Classification",
+            "depth": 1,
+            "strict_ids": [],
+            "total_ids": [
+                "ccpem"
+            ],
+            "strict_count": 0,
+            "total_count": 1
+        },
+        "operation_2409": {
+            "name": "Data handling",
+            "depth": 1,
+            "strict_ids": [
+                "scipion",
+                "xmipp"
+            ],
+            "total_ids": [
+                "multifit",
+                "scipion",
+                "xmipp"
+            ],
+            "strict_count": 2,
+            "total_count": 3
+        },
+        "operation_1844": {
+            "name": "Protein geometry validation",
+            "depth": 3,
+            "strict_ids": [
+                "scipion_web_agents",
+                "scipion"
+            ],
+            "total_ids": [
+                "scipion_web_agents",
+                "scipion"
+            ],
+            "strict_count": 2,
+            "total_count": 2
+        },
+        "operation_2428": {
+            "name": "Validation",
+            "depth": 1,
+            "strict_ids": [],
+            "total_ids": [
+                "multifit",
+                "scipion_web_agents",
+                "scipion"
+            ],
+            "strict_count": 0,
+            "total_count": 3
+        },
+        "operation_0321": {
+            "name": "Protein structure validation",
+            "depth": 2,
+            "strict_ids": [
+                "multifit"
+            ],
+            "total_ids": [
+                "multifit",
+                "scipion_web_agents",
+                "scipion"
+            ],
+            "strict_count": 1,
+            "total_count": 3
+        },
+        "operation_0335": {
+            "name": "Formatting",
+            "depth": 2,
+            "strict_ids": [
+                "multifit"
+            ],
+            "total_ids": [
+                "multifit"
+            ],
+            "strict_count": 1,
+            "total_count": 1
+        },
+        "operation_0331": {
+            "name": "Variant effect prediction",
+            "depth": 2,
+            "strict_ids": [
+                "multifit"
+            ],
+            "total_ids": [
+                "multifit"
+            ],
+            "strict_count": 1,
+            "total_count": 1
+        },
+        "operation_2429": {
+            "name": "Mapping",
+            "depth": 1,
+            "strict_ids": [
+                "multifit"
+            ],
+            "total_ids": [
+                "multifit"
+            ],
+            "strict_count": 1,
+            "total_count": 1
+        },
+        "operation_3501": {
+            "name": "Enrichment analysis",
+            "depth": 2,
+            "strict_ids": [
+                "imod"
+            ],
+            "total_ids": [
+                "imod"
+            ],
+            "strict_count": 1,
+            "total_count": 1
+        },
+        "operation_2238": {
+            "name": "Statistical calculation",
+            "depth": 2,
+            "strict_ids": [
+                "spider"
+            ],
+            "total_ids": [
+                "spider"
+            ],
+            "strict_count": 1,
+            "total_count": 1
+        },
+        "operation_3438": {
+            "name": "Calculation",
+            "depth": 1,
+            "strict_ids": [],
+            "total_ids": [
+                "spider"
+            ],
+            "strict_count": 0,
+            "total_count": 1
+        },
+        "operation_3760": {
+            "name": "Service management",
+            "depth": 1,
+            "strict_ids": [
+                "mrc_image_processing_package"
+            ],
+            "total_ids": [
+                "mrc_image_processing_package"
+            ],
+            "strict_count": 1,
+            "total_count": 1
+        }
+    }
+}

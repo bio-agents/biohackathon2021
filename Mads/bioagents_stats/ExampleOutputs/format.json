@@ -1,0 +1,67 @@
+{
+    "date": "2021-11-22T11:05:03",
+    "format": {
+        "format_1476": {
+            "name": "PDB",
+            "depth": 2,
+            "strict_ids": [
+                "ccp4"
+            ],
+            "total_ids": [
+                "ccp4"
+            ],
+            "strict_count": 1,
+            "total_count": 1
+        },
+        "format_1915": {
+            "name": "Format",
+            "depth": 0,
+            "strict_ids": [],
+            "total_ids": [
+                "ccp4"
+            ],
+            "strict_count": 0,
+            "total_count": 1
+        },
+        "format_2330": {
+            "name": "Textual format",
+            "depth": 1,
+            "strict_ids": [],
+            "total_ids": [
+                "ccp4"
+            ],
+            "strict_count": 0,
+            "total_count": 1
+        },
+        "format_2350": {
+            "name": "Format (by type of data)",
+            "depth": 1,
+            "strict_ids": [],
+            "total_ids": [
+                "ccp4"
+            ],
+            "strict_count": 0,
+            "total_count": 1
+        },
+        "format_2033": {
+            "name": "Tertiary structure format",
+            "depth": 2,
+            "strict_ids": [],
+            "total_ids": [
+                "ccp4"
+            ],
+            "strict_count": 0,
+            "total_count": 1
+        },
+        "format_1475": {
+            "name": "PDB database entry format",
+            "depth": 3,
+            "strict_ids": [],
+            "total_ids": [
+                "ccp4"
+            ],
+            "strict_count": 0,
+            "total_count": 1
+        }
+    }
+}

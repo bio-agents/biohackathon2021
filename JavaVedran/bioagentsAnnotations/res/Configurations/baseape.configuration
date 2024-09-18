@@ -1,0 +1,17 @@
+{
+  "ontology_path": "./res/edam.owl",
+  "ontologyPrexifIRI": "http://edamontology.org/",
+  "agentsTaxonomyRoot": "operation_0004",
+  "dataDimensionsTaxonomyRoots": ["data_0006", "format_1915" ],
+  "strict_agent_annotations": "true",
+  "shared_memory": "true",
+  "solutions_dir_path": "./res/Results/",
+  "solution_length": { "min": 1, "max": 20 },
+  "max_solutions": "100",
+  "number_of_execution_scripts": "0",
+  "number_of_generated_graphs": "0",
+  "debug_mode": "false",
+  "use_workflow_input": "all",
+  "use_all_generated_data": "all",
+  "agent_seq_repeat": "false",
+}

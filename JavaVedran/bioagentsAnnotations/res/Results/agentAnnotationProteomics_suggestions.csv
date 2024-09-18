@@ -1,0 +1,17 @@
+Module,	 IO_info,	 Existing Format,	Existing Type,	New Types
+TMHMM,	 input,	 FASTA,	Sequence,	Sequence record
+PRIDE Agentsuite,	 input,	 mzML,	Data,	Mass spectrometry data
+GenePattern,	 input,	 MAGE-TAB,	Data,	Expression data,	 Processed microarray data
+mspire_mspire-sequest,	 input,	 mzML,	Data,	Mass spectrometry data
+PChopper,	 input,	 FASTA,	Data,	Sequence alignment,	 Sequence record
+dig,	 input,	 FASTA,	Data,	Sequence alignment,	 Sequence record
+mzStar,	 input,	 WIFF format,	Data,	Mass spectrometry data
+mzStar,	 output,	 mzXML,	Data,	Mass spectrometry data
+MS-Isotope,	 input,	 raw,	Data,	Sequence
+MS-Isotope,	 output,	 HTML,	Data,	Report
+Graph Extract,	 input,	 Image format,	Data,	Image
+CCdigest,	 input,	 raw,	Data,	Sequence
+CCdigest,	 output,	 HTML,	Data,	Report
+msalign,	 output,	 Alignment format,	Alignment,	Sequence alignment
+pymzML,	 input,	 mzML,	Data,	Mass spectrometry data
+pymzML,	 output,	 mzML,	Data,	Mass spectrometry data

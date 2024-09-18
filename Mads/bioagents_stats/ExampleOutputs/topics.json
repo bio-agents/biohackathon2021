@@ -1,0 +1,383 @@
+{
+    "date": "2021-11-22T11:03:38",
+    "topic": {
+        "topic_3382": {
+            "name": "Imaging",
+            "depth": 2,
+            "strict_ids": [
+                "multifit",
+                "eman",
+                "mrc_image_processing_package"
+            ],
+            "total_ids": [
+                "imod",
+                "spider",
+                "frealign",
+                "mrc_image_processing_package",
+                "chimera",
+                "multifit",
+                "ccpem",
+                "imagic",
+                "xmipp",
+                "tom",
+                "ccp4",
+                "2dx",
+                "xplore3d",
+                "eman",
+                "scipion"
+            ],
+            "strict_count": 3,
+            "total_count": 15
+        },
+        "topic_0003": {
+            "name": "Topic",
+            "depth": 0,
+            "strict_ids": [],
+            "total_ids": [
+                "imod",
+                "spider",
+                "frealign",
+                "mrc_image_processing_package",
+                "chimera",
+                "multifit",
+                "ccpem",
+                "imagic",
+                "xmipp",
+                "tom",
+                "ccp4",
+                "2dx",
+                "xplore3d",
+                "scipion_web_agents",
+                "eman",
+                "scipion"
+            ],
+            "strict_count": 0,
+            "total_count": 16
+        },
+        "topic_3361": {
+            "name": "Laboratory techniques",
+            "depth": 1,
+            "strict_ids": [],
+            "total_ids": [
+                "imod",
+                "spider",
+                "frealign",
+                "mrc_image_processing_package",
+                "chimera",
+                "multifit",
+                "ccpem",
+                "imagic",
+                "xmipp",
+                "tom",
+                "ccp4",
+                "2dx",
+                "xplore3d",
+                "eman",
+                "scipion"
+            ],
+            "strict_count": 0,
+            "total_count": 15
+        },
+        "topic_0611": {
+            "name": "Electron microscopy",
+            "depth": 3,
+            "strict_ids": [
+                "imod",
+                "spider",
+                "frealign",
+                "chimera",
+                "multifit",
+                "ccpem",
+                "imagic",
+                "xmipp",
+                "tom",
+                "xplore3d",
+                "2dx",
+                "eman",
+                "scipion"
+            ],
+            "total_ids": [
+                "imod",
+                "spider",
+                "frealign",
+                "chimera",
+                "multifit",
+                "ccpem",
+                "imagic",
+                "xmipp",
+                "tom",
+                "xplore3d",
+                "2dx",
+                "eman",
+                "scipion"
+            ],
+            "strict_count": 13,
+            "total_count": 13
+        },
+        "topic_3070": {
+            "name": "Biology",
+            "depth": 1,
+            "strict_ids": [],
+            "total_ids": [
+                "imod",
+                "spider",
+                "frealign",
+                "mrc_image_processing_package",
+                "chimera",
+                "multifit",
+                "ccpem",
+                "imagic",
+                "xmipp",
+                "tom",
+                "ccp4",
+                "2dx",
+                "xplore3d",
+                "eman",
+                "scipion"
+            ],
+            "strict_count": 0,
+            "total_count": 15
+        },
+        "topic_1317": {
+            "name": "Structural biology",
+            "depth": 2,
+            "strict_ids": [
+                "imod",
+                "spider",
+                "frealign",
+                "mrc_image_processing_package",
+                "chimera",
+                "imagic",
+                "tom",
+                "xmipp",
+                "xplore3d",
+                "ccp4",
+                "2dx"
+            ],
+            "total_ids": [
+                "imod",
+                "spider",
+                "frealign",
+                "mrc_image_processing_package",
+                "chimera",
+                "multifit",
+                "ccpem",
+                "imagic",
+                "xmipp",
+                "tom",
+                "ccp4",
+                "2dx",
+                "xplore3d",
+                "eman",
+                "scipion"
+            ],
+            "strict_count": 11,
+            "total_count": 15
+        },
+        "topic_3307": {
+            "name": "Computational biology",
+            "depth": 1,
+            "strict_ids": [
+                "eman"
+            ],
+            "total_ids": [
+                "multifit",
+                "scipion_web_agents",
+                "eman",
+                "scipion"
+            ],
+            "strict_count": 1,
+            "total_count": 4
+        },
+        "topic_2828": {
+            "name": "X-ray diffraction",
+            "depth": 3,
+            "strict_ids": [
+                "ccp4"
+            ],
+            "total_ids": [
+                "ccp4"
+            ],
+            "strict_count": 1,
+            "total_count": 1
+        },
+        "topic_0081": {
+            "name": "Structure analysis",
+            "depth": 2,
+            "strict_ids": [
+                "scipion_web_agents",
+                "scipion"
+            ],
+            "total_ids": [
+                "multifit",
+                "scipion_web_agents",
+                "scipion"
+            ],
+            "strict_count": 2,
+            "total_count": 3
+        },
+        "topic_0102": {
+            "name": "Mapping",
+            "depth": 3,
+            "strict_ids": [
+                "multifit"
+            ],
+            "total_ids": [
+                "multifit"
+            ],
+            "strict_count": 1,
+            "total_count": 1
+        },
+        "topic_0080": {
+            "name": "Sequence analysis",
+            "depth": 2,
+            "strict_ids": [],
+            "total_ids": [
+                "multifit"
+            ],
+            "strict_count": 0,
+            "total_count": 1
+        },
+        "topic_2814": {
+            "name": "Protein structure analysis",
+            "depth": 3,
+            "strict_ids": [
+                "multifit"
+            ],
+            "total_ids": [
+                "multifit"
+            ],
+            "strict_count": 1,
+            "total_count": 1
+        },
+        "topic_0078": {
+            "name": "Proteins",
+            "depth": 2,
+            "strict_ids": [],
+            "total_ids": [
+                "multifit"
+            ],
+            "strict_count": 0,
+            "total_count": 1
+        },
+        "topic_2275": {
+            "name": "Molecular modelling",
+            "depth": 4,
+            "strict_ids": [
+                "multifit"
+            ],
+            "total_ids": [
+                "multifit"
+            ],
+            "strict_count": 1,
+            "total_count": 1
+        },
+        "topic_0082": {
+            "name": "Structure prediction",
+            "depth": 3,
+            "strict_ids": [],
+            "total_ids": [
+                "multifit"
+            ],
+            "strict_count": 0,
+            "total_count": 1
+        },
+        "topic_2269": {
+            "name": "Statistics and probability",
+            "depth": 2,
+            "strict_ids": [
+                "spider"
+            ],
+            "total_ids": [
+                "spider"
+            ],
+            "strict_count": 1,
+            "total_count": 1
+        },
+        "topic_3315": {
+            "name": "Mathematics",
+            "depth": 1,
+            "strict_ids": [],
+            "total_ids": [
+                "spider"
+            ],
+            "strict_count": 0,
+            "total_count": 1
+        },
+        "topic_0092": {
+            "name": "Data visualisation",
+            "depth": 2,
+            "strict_ids": [
+                "spider",
+                "xplore3d"
+            ],
+            "total_ids": [
+                "spider",
+                "xplore3d"
+            ],
+            "strict_count": 2,
+            "total_count": 2
+        },
+        "topic_3316": {
+            "name": "Computer science",
+            "depth": 1,
+            "strict_ids": [],
+            "total_ids": [
+                "spider",
+                "xplore3d"
+            ],
+            "strict_count": 0,
+            "total_count": 2
+        },
+        "topic_0769": {
+            "name": "Workflows",
+            "depth": 3,
+            "strict_ids": [
+                "xmipp",
+                "mrc_image_processing_package"
+            ],
+            "total_ids": [
+                "xmipp",
+                "mrc_image_processing_package"
+            ],
+            "strict_count": 2,
+            "total_count": 2
+        },
+        "topic_0605": {
+            "name": "Informatics",
+            "depth": 1,
+            "strict_ids": [],
+            "total_ids": [
+                "xmipp",
+                "mrc_image_processing_package"
+            ],
+            "strict_count": 0,
+            "total_count": 2
+        },
+        "topic_3071": {
+            "name": "Biological databases",
+            "depth": 2,
+            "strict_ids": [],
+            "total_ids": [
+                "xmipp",
+                "mrc_image_processing_package"
+            ],
+            "strict_count": 0,
+            "total_count": 2
+        },
+        "topic_3452": {
+            "name": "Tomography",
+            "depth": 3,
+            "strict_ids": [
+                "xmipp",
+                "xplore3d"
+            ],
+            "total_ids": [
+                "xmipp",
+                "xplore3d"
+            ],
+            "strict_count": 2,
+            "total_count": 2
+        }
+    }
+}

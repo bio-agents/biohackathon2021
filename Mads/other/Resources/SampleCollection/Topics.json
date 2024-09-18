@@ -1,0 +1,553 @@
+{
+    "topic_0080": {
+        "name": "Sequence analysis",
+        "depth": 3,
+        "strict_ids": [
+            "pfagents"
+        ],
+        "total_ids": [
+            "pfagents",
+            "selectome",
+            "bgeedb"
+        ],
+        "strict_count": 1,
+        "total_count": 3
+    },
+    "topic_0003": {
+        "name": "Topic",
+        "depth": 1,
+        "strict_ids": [],
+        "total_ids": [
+            "biomodels",
+            "pfagents",
+            "selectome",
+            "bgeecall",
+            "bgee",
+            "biomodels-parameter",
+            "myhits",
+            "metanetx",
+            "labrat",
+            "bgeedb"
+        ],
+        "strict_count": 0,
+        "total_count": 10
+    },
+    "topic_3307": {
+        "name": "Computational biology",
+        "depth": 2,
+        "strict_ids": [],
+        "total_ids": [
+            "biomodels",
+            "pfagents",
+            "selectome",
+            "bgeecall",
+            "bgee",
+            "biomodels-parameter",
+            "myhits",
+            "metanetx",
+            "labrat",
+            "bgeedb"
+        ],
+        "strict_count": 0,
+        "total_count": 10
+    },
+    "topic_0121": {
+        "name": "Proteomics",
+        "depth": 3,
+        "strict_ids": [
+            "pfagents"
+        ],
+        "total_ids": [
+            "pfagents"
+        ],
+        "strict_count": 1,
+        "total_count": 1
+    },
+    "topic_3391": {
+        "name": "Omics",
+        "depth": 2,
+        "strict_ids": [],
+        "total_ids": [
+            "labrat",
+            "pfagents",
+            "metanetx",
+            "bgee"
+        ],
+        "strict_count": 0,
+        "total_count": 4
+    },
+    "topic_0160": {
+        "name": "Sequence sites, features and motifs",
+        "depth": 3,
+        "strict_ids": [
+            "pfagents"
+        ],
+        "total_ids": [
+            "pfagents"
+        ],
+        "strict_count": 1,
+        "total_count": 1
+    },
+    "topic_0166": {
+        "name": "Protein structural motifs and surfaces",
+        "depth": 5,
+        "strict_ids": [
+            "pfagents"
+        ],
+        "total_ids": [
+            "pfagents"
+        ],
+        "strict_count": 1,
+        "total_count": 1
+    },
+    "topic_0078": {
+        "name": "Proteins",
+        "depth": 3,
+        "strict_ids": [
+            "myhits"
+        ],
+        "total_ids": [
+            "pfagents",
+            "myhits"
+        ],
+        "strict_count": 1,
+        "total_count": 2
+    },
+    "topic_2814": {
+        "name": "Protein structure analysis",
+        "depth": 4,
+        "strict_ids": [],
+        "total_ids": [
+            "pfagents",
+            "myhits"
+        ],
+        "strict_count": 0,
+        "total_count": 2
+    },
+    "topic_0081": {
+        "name": "Structure analysis",
+        "depth": 3,
+        "strict_ids": [],
+        "total_ids": [
+            "pfagents",
+            "myhits"
+        ],
+        "strict_count": 0,
+        "total_count": 2
+    },
+    "topic_0736": {
+        "name": "Protein folds and structural domains",
+        "depth": 5,
+        "strict_ids": [
+            "pfagents",
+            "myhits"
+        ],
+        "total_ids": [
+            "pfagents",
+            "myhits"
+        ],
+        "strict_count": 2,
+        "total_count": 2
+    },
+    "topic_3292": {
+        "name": "Biochemistry",
+        "depth": 3,
+        "strict_ids": [
+            "metanetx"
+        ],
+        "total_ids": [
+            "metanetx"
+        ],
+        "strict_count": 1,
+        "total_count": 1
+    },
+    "topic_3070": {
+        "name": "Biology",
+        "depth": 2,
+        "strict_ids": [],
+        "total_ids": [
+            "biomodels",
+            "bgeecall",
+            "selectome",
+            "bgee",
+            "biomodels-parameter",
+            "metanetx",
+            "labrat",
+            "bgeedb"
+        ],
+        "strict_count": 0,
+        "total_count": 8
+    },
+    "topic_3314": {
+        "name": "Chemistry",
+        "depth": 2,
+        "strict_ids": [],
+        "total_ids": [
+            "metanetx"
+        ],
+        "strict_count": 0,
+        "total_count": 1
+    },
+    "topic_2258": {
+        "name": "Cheminformatics",
+        "depth": 3,
+        "strict_ids": [
+            "metanetx"
+        ],
+        "total_ids": [
+            "metanetx"
+        ],
+        "strict_count": 1,
+        "total_count": 1
+    },
+    "topic_0605": {
+        "name": "Informatics",
+        "depth": 2,
+        "strict_ids": [],
+        "total_ids": [
+            "bgeedb",
+            "metanetx"
+        ],
+        "strict_count": 0,
+        "total_count": 2
+    },
+    "topic_2259": {
+        "name": "Systems biology",
+        "depth": 3,
+        "strict_ids": [
+            "biomodels",
+            "biomodels-parameter",
+            "metanetx"
+        ],
+        "total_ids": [
+            "biomodels",
+            "biomodels-parameter",
+            "metanetx"
+        ],
+        "strict_count": 3,
+        "total_count": 3
+    },
+    "topic_3172": {
+        "name": "Metabolomics",
+        "depth": 3,
+        "strict_ids": [
+            "metanetx"
+        ],
+        "total_ids": [
+            "metanetx"
+        ],
+        "strict_count": 1,
+        "total_count": 1
+    },
+    "topic_0602": {
+        "name": "Molecular interactions, pathways and networks",
+        "depth": 3,
+        "strict_ids": [
+            "biomodels",
+            "biomodels-parameter",
+            "metanetx"
+        ],
+        "total_ids": [
+            "biomodels",
+            "biomodels-parameter",
+            "metanetx"
+        ],
+        "strict_count": 3,
+        "total_count": 3
+    },
+    "topic_3293": {
+        "name": "Phylogenetics",
+        "depth": 5,
+        "strict_ids": [
+            "selectome"
+        ],
+        "total_ids": [
+            "selectome"
+        ],
+        "strict_count": 1,
+        "total_count": 1
+    },
+    "topic_3299": {
+        "name": "Evolutionary biology",
+        "depth": 3,
+        "strict_ids": [],
+        "total_ids": [
+            "selectome"
+        ],
+        "strict_count": 0,
+        "total_count": 1
+    },
+    "topic_0084": {
+        "name": "Phylogeny",
+        "depth": 4,
+        "strict_ids": [],
+        "total_ids": [
+            "selectome"
+        ],
+        "strict_count": 0,
+        "total_count": 1
+    },
+    "topic_0203": {
+        "name": "Gene expression",
+        "depth": 5,
+        "strict_ids": [
+            "labrat",
+            "bgeecall",
+            "bgeedb"
+        ],
+        "total_ids": [
+            "labrat",
+            "bgeecall",
+            "bgeedb",
+            "bgee"
+        ],
+        "strict_count": 3,
+        "total_count": 4
+    },
+    "topic_3053": {
+        "name": "Genetics",
+        "depth": 3,
+        "strict_ids": [],
+        "total_ids": [
+            "labrat",
+            "bgeecall",
+            "bgeedb",
+            "bgee"
+        ],
+        "strict_count": 0,
+        "total_count": 4
+    },
+    "topic_3321": {
+        "name": "Molecular genetics",
+        "depth": 4,
+        "strict_ids": [],
+        "total_ids": [
+            "labrat",
+            "bgeecall",
+            "bgeedb",
+            "bgee"
+        ],
+        "strict_count": 0,
+        "total_count": 4
+    },
+    "topic_0089": {
+        "name": "Ontology and terminology",
+        "depth": 3,
+        "strict_ids": [
+            "bgeedb"
+        ],
+        "total_ids": [
+            "bgeedb"
+        ],
+        "strict_count": 1,
+        "total_count": 1
+    },
+    "topic_0102": {
+        "name": "Mapping",
+        "depth": 4,
+        "strict_ids": [
+            "bgeedb"
+        ],
+        "total_ids": [
+            "bgeedb"
+        ],
+        "strict_count": 1,
+        "total_count": 1
+    },
+    "topic_3308": {
+        "name": "Transcriptomics",
+        "depth": 6,
+        "strict_ids": [
+            "labrat",
+            "bgee"
+        ],
+        "total_ids": [
+            "labrat",
+            "bgee"
+        ],
+        "strict_count": 2,
+        "total_count": 2
+    },
+    "topic_0622": {
+        "name": "Genomics",
+        "depth": 3,
+        "strict_ids": [],
+        "total_ids": [
+            "labrat",
+            "bgee"
+        ],
+        "strict_count": 0,
+        "total_count": 2
+    },
+    "topic_0797": {
+        "name": "Comparative genomics",
+        "depth": 4,
+        "strict_ids": [
+            "bgee"
+        ],
+        "total_ids": [
+            "bgee"
+        ],
+        "strict_count": 1,
+        "total_count": 1
+    },
+    "topic_0085": {
+        "name": "Functional genomics",
+        "depth": 4,
+        "strict_ids": [
+            "bgee"
+        ],
+        "total_ids": [
+            "bgee"
+        ],
+        "strict_count": 1,
+        "total_count": 1
+    },
+    "topic_1775": {
+        "name": "Function analysis",
+        "depth": 3,
+        "strict_ids": [],
+        "total_ids": [
+            "bgee"
+        ],
+        "strict_count": 0,
+        "total_count": 1
+    },
+    "topic_3170": {
+        "name": "RNA-Seq",
+        "depth": 4,
+        "strict_ids": [
+            "labrat",
+            "bgeecall"
+        ],
+        "total_ids": [
+            "labrat",
+            "bgeecall"
+        ],
+        "strict_count": 2,
+        "total_count": 2
+    },
+    "topic_3361": {
+        "name": "Laboratory techniques",
+        "depth": 2,
+        "strict_ids": [],
+        "total_ids": [
+            "labrat",
+            "bgeecall"
+        ],
+        "strict_count": 0,
+        "total_count": 2
+    },
+    "topic_3168": {
+        "name": "Sequencing",
+        "depth": 3,
+        "strict_ids": [],
+        "total_ids": [
+            "labrat",
+            "bgeecall"
+        ],
+        "strict_count": 0,
+        "total_count": 2
+    },
+    "topic_3315": {
+        "name": "Mathematics",
+        "depth": 2,
+        "strict_ids": [
+            "biomodels-parameter"
+        ],
+        "total_ids": [
+            "biomodels-parameter"
+        ],
+        "strict_count": 1,
+        "total_count": 1
+    },
+    "topic_3300": {
+        "name": "Physiology",
+        "depth": 3,
+        "strict_ids": [
+            "biomodels-parameter"
+        ],
+        "total_ids": [
+            "biomodels-parameter"
+        ],
+        "strict_count": 1,
+        "total_count": 1
+    },
+    "topic_3303": {
+        "name": "Medicine",
+        "depth": 2,
+        "strict_ids": [],
+        "total_ids": [
+            "labrat",
+            "biomodels-parameter"
+        ],
+        "strict_count": 0,
+        "total_count": 2
+    },
+    "topic_3068": {
+        "name": "Literature and language",
+        "depth": 2,
+        "strict_ids": [
+            "biomodels-parameter"
+        ],
+        "total_ids": [
+            "biomodels-parameter"
+        ],
+        "strict_count": 1,
+        "total_count": 1
+    },
+    "topic_3512": {
+        "name": "Gene transcripts",
+        "depth": 6,
+        "strict_ids": [
+            "labrat"
+        ],
+        "total_ids": [
+            "labrat"
+        ],
+        "strict_count": 1,
+        "total_count": 1
+    },
+    "topic_0114": {
+        "name": "Gene structure",
+        "depth": 5,
+        "strict_ids": [],
+        "total_ids": [
+            "labrat"
+        ],
+        "strict_count": 0,
+        "total_count": 1
+    },
+    "topic_0077": {
+        "name": "Nucleic acids",
+        "depth": 3,
+        "strict_ids": [],
+        "total_ids": [
+            "labrat"
+        ],
+        "strict_count": 0,
+        "total_count": 1
+    },
+    "topic_0099": {
+        "name": "RNA",
+        "depth": 4,
+        "strict_ids": [],
+        "total_ids": [
+            "labrat"
+        ],
+        "strict_count": 0,
+        "total_count": 1
+    },
+    "topic_2640": {
+        "name": "Oncology",
+        "depth": 3,
+        "strict_ids": [
+            "labrat"
+        ],
+        "total_ids": [
+            "labrat"
+        ],
+        "strict_count": 1,
+        "total_count": 1
+    }
+}

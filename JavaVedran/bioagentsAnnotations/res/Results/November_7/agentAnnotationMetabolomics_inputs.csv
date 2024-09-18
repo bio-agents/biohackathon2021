@@ -1,0 +1,50 @@
+Name, OrderNo, Data Depth,Format depth,,,,,
+IDBac,1,1,0,,,,,
+xcms,1,1,0,,,,,
+xcms,2,0,0,,,,Data frequency,Format Frequency
+MAIT,1,1,0,,,,27,30
+speaq,1,0,1,,,,20,8
+Goslin,1,3,1,,,,1,1
+pyQms,1,0,0,,,,1,10
+Ramid,1,0,0,,,,0,0
+Ramid,2,1,3,,,,0,0
+RMassBank,1,0,3,,,,0,0
+OpenChrom,1,0,0,,,,0,0
+SpiderMass,1,1,3,,,,0,0
+SpiderMass,2,1,1,,,,0,0
+SpiderMass,1,1,3,,,,0,0
+SpiderMass,2,0,3,,,,0,0
+msalign2,1,0,0,,,,0,0
+LipidXplorer,1,1,0,,,,,
+LipidXplorer,2,0,0,,,,,
+SIMAT,1,0,1,,,,,
+Sirius,1,0,0,,,,,
+mmvec,1,1,0,,,,,
+MZmine,1,0,0,,,,,
+MZmine,1,0,0,,,,,
+BRAIN,1,0,0,,,,,
+BRAIN,2,1,0,,,,,
+ThermoRawFileParser,1,0,0,,,,,
+Isoform,1,1,0,,,,,
+DExSI: Targeted GC-MS Metabolomics,1,1,0,,,,,
+OpenMS,1,1,0,,,,,
+OpenMS,2,1,0,,,,,
+OpenMS,3,0,0,,,,,
+Graphia,1,0,0,,,,,
+Graphia,2,0,0,,,,,
+COMSPARI,1,0,3,,,,,
+COMSPARI,1,0,0,,,,,
+ID-Align,1,1,1,,,,,
+ID-Align,2,0,1,,,,,
+jmztab-m,1,1,0,,,,,
+jmztab-m,2,0,3,,,,,
+CEU Mass Mediator,1,0,3,,,,,
+CEU Mass Mediator,2,0,3,,,,,
+MetFamily,1,0,3,,,,,
+mixomics,1,1,2,,,,,
+VSClust,1,2,0,,,,,
+OpenMZxy,1,0,0,,,,,
+XCMS Online,1,1,1,,,,,
+Midcor,1,0,0,,,,,
+Midcor,2,1,0,,,,,
+Lipid Data Analyzer (LDA),1,1,1,,,,,

@@ -1,0 +1,8 @@
+Name, OrderNo, Data Depth,Format depth
+Cutadapt,1,0,0
+MAFFT,1,1,0
+MUSCLE,1,0,0
+MUSCLE,2,0,0
+Clustal 1.8 (Clustal W_ Clustal X) ,1,2,0
+Swarm,1,1,2
+cd-hit,1,1,0

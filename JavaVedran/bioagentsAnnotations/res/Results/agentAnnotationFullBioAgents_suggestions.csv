@@ -1,0 +1,444 @@
+Module,	 IO_info,,	 Existing Format,	Existing Type,	New Types
+countnumber,	 input,	 GFF3,	Data,	Sequence features
+TableAnnotator,	 output,	 Database hits (sequence) format,	Database search results,	Sequence search results
+clc_mapper,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+clc_mapper,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+clc_mapper,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+GeneValidator,	 input,	 FASTA-like (text),	Sequence,	Sequence record
+vcfutils,	 output,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+changegfffeatures,	 input,	 GFF3,	Data,	Sequence features
+changegfffeatures,	 output,	 GFF3,	Data,	Sequence features
+TatP,	 input,	 FASTA,	Sequence,	Sequence record
+getwigdistance,	 input,	 GFF3,	Data,	Sequence features
+clc_unmapped_reads,	 output,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+vardict,	 input,	 BAM,	Sequence alignment,	Pair sequence alignment
+hgv_pass,	 input,	 GFF,	Data,	Sequence features
+TMHMM,	 input,	 FASTA,	Sequence,	Sequence record
+restrictfromsize,	 input,	 GFF,	Data,	Sequence features
+restrictfromsize,	 input,	 GFF3,	Data,	Sequence features
+restrictfromsize,	 input,	 GTF,	Data,	Sequence features
+restrictfromsize,	 output,	 GFF3,	Data,	Sequence features
+converttranscriptfile_fastqtofasta,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+NetMHCcons,	 input,	 FASTA,	Sequence,	Sequence record
+LipoP,	 input,	 FASTA,	Sequence,	Sequence record
+frogs_demultiplex,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+frogs_demultiplex,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+frogs_demultiplex,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+CPHmodels,	 input,	 FASTA,	Sequence,	Sequence record
+changename,	 input,	 GFF,	Data,	Sequence features
+changename,	 output,	 GFF,	Data,	Sequence features
+PRED-TMBB2,	 input,	 FASTA,	Sequence,	Sequence record
+frmaAgents,	 input,	 cel,	Expression data,	Raw microarray data
+GenePattern,	 input,	 MAGE-TAB,	Data,	Expression data,	 Processed microarray data
+SecretomeP,	 input,	 FASTA,	Sequence,	Sequence record
+bedagents_intersectbed,	 input,	 GFF,	Data,	Sequence features
+bedagents_intersectbed,	 input,	 GFF,	Data,	Sequence features
+bedagents_intersectbed,	 output,	 GFF,	Data,	Sequence features
+coveragegff,	 input,	 GFF,	Data,	Sequence features
+coveragegff,	 output,	 GFF3,	Data,	Sequence features
+FragGeneScan,	 output,	 GFF,	Data,	Sequence features
+compareoverlappingsmallquery,	 input,	 GFF,	Data,	Sequence features
+compareoverlappingsmallquery,	 input,	 GFF3,	Data,	Sequence features
+compareoverlappingsmallquery,	 input,	 GTF,	Data,	Sequence features
+compareoverlappingsmallquery,	 input,	 GFF,	Data,	Sequence features
+compareoverlappingsmallquery,	 input,	 GFF3,	Data,	Sequence features
+compareoverlappingsmallquery,	 input,	 GTF,	Data,	Sequence features
+compareoverlappingsmallquery,	 output,	 GFF3,	Data,	Sequence features
+plotgenomecoverage,	 input,	 GFF,	Data,	Sequence features
+plotgenomecoverage,	 input,	 GFF3,	Data,	Sequence features
+plotgenomecoverage,	 input,	 GTF,	Data,	Sequence features
+RedHom,	 input,	 FASTA,	Sequence,	Sequence record
+RedHom,	 output,	 FASTA,	Sequence,	Sequence record
+GSNAP,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+GSNAP,	 output,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+cuffcompare,	 input,	 GTF,	Data,	Sequence features
+cuffcompare,	 output,	 GTF,	Data,	Sequence features
+MEME Suite,	 input,	 FASTA,	Sequence,	Sequence record
+clc_mapper_legacy,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+clc_mapper_legacy,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+clc_mapper_legacy,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+scmap,	 output,	 Biological pathway or network report format,	Report,	Pathway or network report
+changetagname,	 input,	 GFF,	Data,	Sequence features
+changetagname,	 input,	 GFF3,	Data,	Sequence features
+changetagname,	 output,	 GFF3,	Data,	Sequence features
+PRED-TAT,	 input,	 FASTA,	Sequence,	Sequence record
+NetNES,	 input,	 FASTA,	Sequence,	Sequence record
+NetChop,	 input,	 FASTA,	Sequence,	Sequence record
+HeteroMirPred,	 input,	 FASTA-like (text),	Sequence,	Sequence record
+getdistribution,	 input,	 GFF,	Data,	Sequence features
+getdistribution,	 input,	 GFF3,	Data,	Sequence features
+getdistribution,	 input,	 GTF,	Data,	Sequence features
+getdistribution,	 output,	 GFF,	Data,	Sequence features
+SCcaller,	 input,	 BAM,	Sequence,	Sequence record
+NetMHCII,	 input,	 FASTA,	Sequence,	Sequence record
+metaspades,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+metaspades,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+metaspades,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+Clustal WS (jabaws),	 input,	 FASTA,	Sequence,	Sequence record
+ggsashimi,	 input,	 BAM,	Sequence alignment,	Pair sequence alignment
+sortgff,	 input,	 GFF,	Data,	Sequence features
+sortgff,	 output,	 GFF3,	Data,	Sequence features
+OligoWiz,	 input,	 FASTA,	Sequence,	Sequence record
+seedgff,	 input,	 GFF,	Data,	Sequence features
+seedgff,	 output,	 GFF,	Data,	Sequence features
+getdifferentialexpression,	 input,	 GFF,	Data,	Sequence features
+getdifferentialexpression,	 input,	 GFF3,	Data,	Sequence features
+getdifferentialexpression,	 input,	 GTF,	Data,	Sequence features
+getdifferentialexpression,	 input,	 GFF,	Data,	Sequence features
+getdifferentialexpression,	 input,	 GFF3,	Data,	Sequence features
+getdifferentialexpression,	 input,	 GTF,	Data,	Sequence features
+getdifferentialexpression,	 input,	 GFF,	Data,	Sequence features
+getdifferentialexpression,	 input,	 GFF3,	Data,	Sequence features
+getdifferentialexpression,	 input,	 GTF,	Data,	Sequence features
+getdifferentialexpression,	 output,	 GFF3,	Data,	Sequence features
+NetPlantGene,	 input,	 FASTA,	Sequence,	Sequence record
+countreadgcpercent,	 input,	 GFF3,	Data,	Sequence features
+countreadgcpercent,	 output,	 GFF3,	Data,	Sequence features
+qualtofastq,	 output,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+ProP,	 input,	 FASTA,	Sequence,	Sequence record
+REDIagents,	 input,	 BAM,	Alignment,	Sequence alignment,	 Pair sequence alignment
+collapsereads,	 input,	 GFF,	Data,	Sequence features
+collapsereads,	 input,	 GFF3,	Data,	Sequence features
+collapsereads,	 input,	 GTF,	Data,	Sequence features
+collapsereads,	 output,	 GFF3,	Data,	Sequence features
+annovar_annotate_variation,	 input,	 GFF3,	Data,	Sequence features
+breseq,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+getnumber,	 input,	 GFF,	Data,	Sequence features
+getnumber,	 input,	 GFF3,	Data,	Sequence features
+getnumber,	 input,	 GTF,	Data,	Sequence features
+merlin - MEtabolic models Reconstruction using genome-scaLe INformation,	 input,	 FASTA,	Sequence,	Sequence record
+LBEEP,	 output,	 FASTA-HTML,	Sequence,	Sequence record
+compareoverlappingsmallref,	 input,	 GFF,	Data,	Sequence features
+compareoverlappingsmallref,	 input,	 GFF3,	Data,	Sequence features
+compareoverlappingsmallref,	 input,	 GTF,	Data,	Sequence features
+compareoverlappingsmallref,	 input,	 GFF,	Data,	Sequence features
+compareoverlappingsmallref,	 input,	 GFF3,	Data,	Sequence features
+compareoverlappingsmallref,	 input,	 GTF,	Data,	Sequence features
+compareoverlappingsmallref,	 output,	 GFF3,	Data,	Sequence features
+PhaseME,	 input,	 VCF,	Data,	Sequence variations
+PhaseME,	 output,	 VCF,	Data,	Sequence variations
+PhaseME,	 input,	 VCF,	Data,	Sequence variations
+restricttranscriptlist,	 input,	 GFF,	Data,	Sequence features
+restricttranscriptlist,	 input,	 GFF3,	Data,	Sequence features
+restricttranscriptlist,	 input,	 GTF,	Data,	Sequence features
+restricttranscriptlist,	 output,	 GFF3,	Data,	Sequence features
+NetSurfP,	 input,	 FASTA,	Sequence,	Sequence record
+getdifference,	 input,	 GFF,	Data,	Sequence features
+getdifference,	 input,	 GFF3,	Data,	Sequence features
+getdifference,	 input,	 GTF,	Data,	Sequence features
+getdifference,	 input,	 GFF,	Data,	Sequence features
+getdifference,	 input,	 GFF3,	Data,	Sequence features
+getdifference,	 input,	 GTF,	Data,	Sequence features
+getdifference,	 output,	 GFF3,	Data,	Sequence features
+BepiPred,	 input,	 FASTA,	Sequence,	Sequence record
+MEME Suite,	 input,	 FASTA,	Sequence,	Sequence record
+Cofactory,	 input,	 FASTA,	Sequence,	Sequence record
+ClustalO WS (jabaws),	 input,	 FASTA,	Sequence,	Sequence record
+MEME Suite,	 input,	 FASTA,	Sequence,	Sequence record
+MEME Suite,	 output,	 FASTA,	Sequence,	Sequence record
+MEME Suite,	 input,	 FASTA,	Sequence,	Sequence record
+MEME Suite,	 input,	 FASTA,	Sequence,	Sequence record
+MEME Suite,	 input,	 FASTA,	Sequence,	Sequence record
+MEME Suite,	 output,	 FASTA,	Sequence,	Sequence record
+SICagents,	 input,	 BAM,	Sequence alignment,	Pair sequence alignment
+plasmidspades,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+plasmidspades,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+plasmidspades,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+plasmidspades,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+plasmidspades,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+plasmidspades,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+plasmidspades,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+plasmidspades,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+plasmidspades,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+picard_samtofastq,	 output,	 FASTQ-sanger,	Data,	Sequence trace,	 Sequence record
+picard_samtofastq,	 output,	 FASTQ-sanger,	Data,	Sequence trace,	 Sequence record
+flipflop,	 input,	 SAM,	Sequence alignment,	Pair sequence alignment
+RiboTaper,	 input,	 BAM,	Sequence alignment,	Pair sequence alignment
+mzStar,	 input,	 WIFF format,	Data,	Mass spectrometry data
+mzStar,	 output,	 mzXML,	Data,	Mass spectrometry data
+NetGene2,	 input,	 FASTA,	Sequence,	Sequence record
+andi,	 input,	 FASTA,	Sequence,	Sequence record
+Rsubread,	 output,	 BAM,	Sequence alignment,	Pair sequence alignment
+SJcount,	 input,	 BAM,	Alignment,	Sequence alignment,	 Pair sequence alignment
+NetOGlyc,	 input,	 FASTA,	Sequence,	Sequence record
+NetPhos,	 input,	 FASTA,	Sequence,	Sequence record
+IMGT GENE-DB,	 output,	 FASTA,	Sequence,	Sequence record
+CyanoLyase,	 input,	 FASTA,	Sequence,	Sequence record
+CyanoLyase,	 input,	 FASTA,	Sequence,	Sequence record
+getwigdata,	 input,	 GFF3,	Data,	Sequence features
+getwigdata,	 output,	 GFF3,	Data,	Sequence features
+TGNet,	 input,	 FASTA-like (text),	Sequence,	Sequence record
+compareoverlapping,	 input,	 GFF,	Data,	Sequence features
+compareoverlapping,	 input,	 GFF3,	Data,	Sequence features
+compareoverlapping,	 input,	 GTF,	Data,	Sequence features
+compareoverlapping,	 input,	 GFF,	Data,	Sequence features
+compareoverlapping,	 input,	 GFF3,	Data,	Sequence features
+compareoverlapping,	 input,	 GTF,	Data,	Sequence features
+compareoverlapping,	 output,	 GFF3,	Data,	Sequence features
+tigre,	 input,	 cel,	Expression data,	Raw microarray data
+EOSC pipeline-Reproducibility,	 input,	 FASTA,	Sequence,	Sequence record
+EOSC pipeline-Reproducibility,	 output,	 FASTA,	Sequence,	Sequence record
+GreyListChIP,	 input,	 BAM,	Sequence,	Sequence record
+cshl_fastx_quality_statistics,	 input,	 FASTQ-sanger,	Data,	Sequence trace,	 Sequence record
+diffHic,	 input,	 BAM,	Sequence,	Sequence record
+computecoverage,	 input,	 GFF,	Data,	Sequence features
+computecoverage,	 input,	 GFF3,	Data,	Sequence features
+computecoverage,	 input,	 GTF,	Data,	Sequence features
+computecoverage,	 input,	 GFF,	Data,	Sequence features
+computecoverage,	 input,	 GFF3,	Data,	Sequence features
+computecoverage,	 input,	 GTF,	Data,	Sequence features
+computecoverage,	 output,	 GFF3,	Data,	Sequence features
+Metacoder,	 input,	 Biodiversity data format,	Ecological data,	Biodiversity data
+Crispi,	 input,	 FASTA,	Sequence,	Sequence record
+Graph Extract,	 input,	 Image format,	Data,	Image
+MiGMAP,	 input,	 FASTQ-like format (text),	Sequence,	Sequence record
+genbank2gff3,	 input,	 OBO,	Data,	Ontology
+genbank2gff3,	 output,	 GFF3,	Data,	Sequence features
+InterMap3D,	 input,	 FASTA,	Sequence,	Sequence record
+NetPhorest,	 input,	 FASTA,	Sequence,	Sequence record
+hipSTR,	 input,	 BAM,	Sequence,	Sequence record
+Logol,	 input,	 FASTA,	Sequence,	Sequence record
+RNAmmer,	 input,	 FASTA,	Sequence,	Sequence record
+HLArestrictor,	 input,	 FASTA,	Sequence,	Sequence record
+modifygenomiccoordinates,	 input,	 GFF,	Data,	Sequence features
+modifygenomiccoordinates,	 input,	 GFF3,	Data,	Sequence features
+modifygenomiccoordinates,	 input,	 GTF,	Data,	Sequence features
+modifygenomiccoordinates,	 output,	 GFF3,	Data,	Sequence features
+solid2fastq,	 output,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+solid2fastq,	 output,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+fqextract,	 output,	 FASTQ-illumina,	Data,	Sequence trace,	 Sequence record
+fqextract,	 output,	 FASTQ-illumina,	Data,	Sequence trace,	 Sequence record
+fqextract,	 output,	 FASTQ-illumina,	Data,	Sequence trace,	 Sequence record
+gdagents_gd2gvf,	 output,	 GFF3,	Data,	Sequence features
+Bowtie,	 output,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+SigniSite,	 input,	 FASTA,	Sequence,	Sequence record
+Trimmomatic,	 output,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+CCdigest,	 input,	 raw,	Data,	Sequence
+CCdigest,	 output,	 HTML,	Data,	Report
+similaRpeak,	 input,	 BAM,	Sequence alignment,	Pair sequence alignment
+NetMHCstab,	 input,	 FASTA,	Sequence,	Sequence record
+msalign,	 output,	 Alignment format,	Alignment,	Sequence alignment
+BTOD,	 input,	 FASTA,	Sequence,	Sequence record
+BTOD,	 input,	 FASTA,	Sequence,	Sequence record
+getwigprofile,	 input,	 GFF,	Data,	Sequence features
+getwigprofile,	 input,	 GFF3,	Data,	Sequence features
+ChloroP,	 input,	 FASTA,	Sequence,	Sequence record
+ClustalW (PBIL),	 input,	 FASTA,	Sequence,	Sequence record
+mapperanalyzer,	 input,	 GFF3,	Data,	Sequence features
+mapperanalyzer,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+mapperanalyzer,	 input,	 GFF3,	Data,	Sequence features
+mapperanalyzer,	 output,	 GFF3,	Data,	Sequence features
+TIN,	 input,	 cel,	Expression data,	Raw microarray data
+edge,	 input,	 Sequence record format,	Sequence,	Sequence record
+getdistance,	 input,	 GFF,	Data,	Sequence features
+getdistance,	 input,	 GFF3,	Data,	Sequence features
+getdistance,	 input,	 GTF,	Data,	Sequence features
+getdistance,	 input,	 GFF,	Data,	Sequence features
+getdistance,	 input,	 GFF3,	Data,	Sequence features
+getdistance,	 input,	 GTF,	Data,	Sequence features
+getdistance,	 output,	 GFF3,	Data,	Sequence features
+NetCorona,	 input,	 FASTA,	Sequence,	Sequence record
+DistanceP,	 input,	 FASTA,	Sequence,	Sequence record
+rnaspades,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+rnaspades,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+rnaspades,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+Prokaryote RNA sequence analysis workflow,	 input,	 FASTQ-sanger,	Sequence,	Sequence record
+clean_ngs,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+clean_ngs,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+clean_ngs,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+YinOYang,	 input,	 FASTA,	Sequence,	Sequence record
+puma,	 input,	 cel,	Expression data,	Raw microarray data
+PRIDE Agentsuite,	 input,	 mzML,	Data,	Mass spectrometry data
+selectbytag,	 input,	 GFF,	Data,	Sequence features
+selectbytag,	 input,	 GFF3,	Data,	Sequence features
+selectbytag,	 input,	 GTF,	Data,	Sequence features
+selectbytag,	 output,	 GFF3,	Data,	Sequence features
+The GEM (GEnome Multi-agent) Library (GEM Mapper),	 input,	 FASTQ-like format (text),	Sequence,	Sequence record
+plot,	 input,	 GFF,	Data,	Sequence features
+plot,	 input,	 GFF3,	Data,	Sequence features
+getintrons,	 input,	 GFF,	Data,	Sequence features
+getintrons,	 input,	 GFF3,	Data,	Sequence features
+getintrons,	 input,	 GTF,	Data,	Sequence features
+getintrons,	 output,	 GFF3,	Data,	Sequence features
+GATK-LODn,	 input,	 FASTQ,	Sequence set (nucleic acid),	Sequence trace
+NetStart,	 input,	 FASTA,	Sequence,	Sequence record
+DictyOGlyc,	 input,	 FASTA,	Sequence,	Sequence record
+SpindleP,	 input,	 FASTA,	Sequence,	Sequence record
+NetPhosYeast,	 input,	 FASTA,	Sequence,	Sequence record
+EOSC pipeline-Reproducibility,	 input,	 FASTA,	Sequence,	Sequence record
+EOSC pipeline-Reproducibility,	 input,	 FASTA,	Sequence,	Sequence record
+ProtFun,	 input,	 FASTA,	Sequence,	Sequence record
+NetMHCpan,	 input,	 FASTA,	Sequence,	Sequence record
+EOSC pipeline-Reproducibility,	 input,	 FASTA,	Sequence,	Sequence record
+fqcleaner,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+fqcleaner,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+fqcleaner,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+fqcleaner,	 output,	 FASTQ-sanger,	Data,	Sequence trace,	 Sequence record
+fqcleaner,	 output,	 FASTQ-sanger,	Data,	Sequence trace,	 Sequence record
+fqcleaner,	 output,	 FASTQ-sanger,	Data,	Sequence trace,	 Sequence record
+EOSC pipeline-Reproducibility,	 input,	 FASTA,	Sequence,	Sequence record
+EOSC pipeline-Reproducibility,	 input,	 FASTA,	Sequence,	Sequence record
+sickle,	 input,	 FASTQ,	Sequence,	Sequence record
+sickle,	 output,	 FASTQ,	Sequence,	Sequence record
+mspire_mspire-sequest,	 input,	 mzML,	Data,	Mass spectrometry data
+coordinatestosequence,	 input,	 GFF,	Data,	Sequence features
+coordinatestosequence,	 input,	 GFF3,	Data,	Sequence features
+coordinatestosequence,	 input,	 GTF,	Data,	Sequence features
+NetGlycate,	 input,	 FASTA,	Sequence,	Sequence record
+MiXCR,	 input,	 FASTQ-like format (text),	Sequence,	Sequence record
+htseqcount,	 input,	 GFF,	Data,	Sequence features
+LepidoDB,	 input,	 FASTA,	Sequence,	Sequence record
+NetCTL,	 input,	 FASTA,	Sequence,	Sequence record
+getflanking,	 input,	 GFF,	Data,	Sequence features
+getflanking,	 input,	 GFF3,	Data,	Sequence features
+getflanking,	 input,	 GTF,	Data,	Sequence features
+getflanking,	 input,	 GFF,	Data,	Sequence features
+getflanking,	 input,	 GFF3,	Data,	Sequence features
+getflanking,	 input,	 GTF,	Data,	Sequence features
+getflanking,	 output,	 GFF3,	Data,	Sequence features
+NetPicoRNA,	 input,	 FASTA,	Sequence,	Sequence record
+frma,	 input,	 cel,	Expression data,	Raw microarray data
+interelementgff,	 input,	 GFF,	Data,	Sequence features
+interelementgff,	 output,	 GFF,	Data,	Sequence features
+gmap_iit_store,	 input,	 GTF,	Data,	Sequence features
+gmap_iit_store,	 input,	 GFF3,	Data,	Sequence features
+cleantranscriptfile,	 input,	 GFF,	Data,	Sequence features
+cleantranscriptfile,	 input,	 GTF,	Data,	Sequence features
+cleantranscriptfile,	 output,	 GTF,	Data,	Sequence features
+SPAdes,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+AntaRNA,	 output,	 FASTA,	Sequence,	Sequence record
+Alfred,	 input,	 BAM,	Alignment,	Sequence alignment,	 Pair sequence alignment
+PChopper,	 input,	 FASTA,	Data,	Sequence alignment,	 Sequence record
+tophat2,	 input,	 FASTQ-sanger,	Data,	Sequence trace,	 Sequence record
+tophat2,	 input,	 FASTQ-sanger,	Data,	Sequence trace,	 Sequence record
+tophat2,	 input,	 FASTQ-sanger,	Data,	Sequence trace,	 Sequence record
+PBxplore,	 output,	 FASTA-like (text),	Sequence,	Sequence record
+IPK BLAST Server,	 input,	 FASTA-like,	Sequence,	Sequence record
+ExpaRNA-P,	 output,	 ClustalW format,	Alignment,	Sequence alignment
+trimadaptor,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+trimadaptor,	 output,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+trimadaptor,	 output,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+VDJsolver,	 input,	 FASTA,	Sequence,	Sequence record
+AphidBase,	 input,	 FASTA,	Sequence,	Sequence record
+mergingdataclusterize,	 input,	 GFF,	Data,	Sequence features
+mergingdataclusterize,	 input,	 GFF3,	Data,	Sequence features
+mergingdataclusterize,	 output,	 GFF3,	Data,	Sequence features
+PRED-LIPO,	 input,	 FASTA,	Sequence,	Sequence record
+bionode-fasta,	 input,	 FASTA,	Data,	Sequence alignment,	 Sequence record
+NDtree,	 input,	 FASTA-like,	Sequence,	Sequence record
+getletterdistribution1,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+removeexonlines,	 input,	 GFF3,	Data,	Sequence features
+removeexonlines,	 output,	 GFF3,	Data,	Sequence features
+VarDom,	 input,	 FASTA,	Sequence,	Sequence record
+TargetP,	 input,	 FASTA,	Sequence,	Sequence record
+dig,	 input,	 FASTA,	Data,	Sequence alignment,	 Sequence record
+converttranscriptfile,	 input,	 GFF3,	Data,	Sequence features
+converttranscriptfile,	 output,	 GFF3,	Data,	Sequence features
+clc_assembler,	 output,	 GFF,	Data,	Sequence features
+ClustalW (SIB),	 input,	 FASTA,	Sequence,	Sequence record
+mergeslidingwindowsclusters,	 input,	 GFF,	Data,	Sequence features
+mergeslidingwindowsclusters,	 input,	 GFF3,	Data,	Sequence features
+mergeslidingwindowsclusters,	 input,	 GTF,	Data,	Sequence features
+mergeslidingwindowsclusters,	 input,	 GFF,	Data,	Sequence features
+mergeslidingwindowsclusters,	 input,	 GFF3,	Data,	Sequence features
+mergeslidingwindowsclusters,	 input,	 GTF,	Data,	Sequence features
+mergeslidingwindowsclusters,	 output,	 GFF3,	Data,	Sequence features
+load_multifastq,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+Plast,	 input,	 FASTA,	Sequence,	Sequence record
+Plast,	 input,	 FASTA,	Sequence,	Sequence record
+getexons,	 input,	 GFF,	Data,	Sequence features
+getexons,	 input,	 GFF3,	Data,	Sequence features
+getexons,	 input,	 GTF,	Data,	Sequence features
+getexons,	 output,	 GFF3,	Data,	Sequence features
+strictlyincludegff,	 input,	 GFF,	Data,	Sequence features
+strictlyincludegff,	 input,	 GFF,	Data,	Sequence features
+strictlyincludegff,	 output,	 GFF3,	Data,	Sequence features
+edgeR,	 input,	 Sequence record format,	Sequence,	Sequence record
+NCpred,	 input,	 FASTA-like (text),	Sequence,	Sequence record
+Clustal 2 (Clustal W; Clustal X),	 input,	 FASTA,	Sequence,	Sequence record
+NetCGlyc,	 input,	 FASTA,	Sequence,	Sequence record
+NetCTLpan,	 input,	 FASTA,	Sequence,	Sequence record
+Clustal Omega,	 input,	 FASTA,	Sequence,	Sequence record
+Clustal 1.8 (Clustal W; Clustal X),	 input,	 FASTA,	Sequence,	Sequence record
+mergetranscriptlists,	 input,	 GFF,	Data,	Sequence features
+mergetranscriptlists,	 input,	 GFF3,	Data,	Sequence features
+mergetranscriptlists,	 input,	 GTF,	Data,	Sequence features
+mergetranscriptlists,	 input,	 GFF,	Data,	Sequence features
+mergetranscriptlists,	 input,	 GFF3,	Data,	Sequence features
+mergetranscriptlists,	 input,	 GTF,	Data,	Sequence features
+mergetranscriptlists,	 output,	 GFF3,	Data,	Sequence features
+gemreads,	 output,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+gemreads,	 output,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+getreaddistribution,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+clusterizebyslidingwindows,	 input,	 GFF,	Data,	Sequence features
+clusterizebyslidingwindows,	 input,	 GFF3,	Data,	Sequence features
+clusterizebyslidingwindows,	 input,	 GTF,	Data,	Sequence features
+clusterizebyslidingwindows,	 output,	 GFF3,	Data,	Sequence features
+sincell,	 input,	 BAM,	Sequence alignment,	Pair sequence alignment
+Askomics,	 input,	 RDF format,	Ontology data,	Ontology
+ClustalO UniProt,	 input,	 FASTA,	Sequence,	Sequence record
+getsizes,	 input,	 GFF,	Data,	Sequence features
+getsizes,	 input,	 GFF,	Data,	Sequence features
+getsizes,	 input,	 GFF3,	Data,	Sequence features
+getsizes,	 input,	 GTF,	Data,	Sequence features
+getsizes,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+NetNGlyc,	 input,	 FASTA,	Sequence,	Sequence record
+NetTurnP,	 input,	 FASTA,	Sequence,	Sequence record
+Metagenomic operational taxonomic units (mOTUs),	 input,	 FASTQ-illumina,	Sequence set,	Sequence trace
+CARNA web server,	 output,	 ClustalW format,	Alignment,	Sequence alignment
+CARNA web server,	 output,	 FASTA,	Sequence,	Sequence record
+antgenomes.org,	 input,	 FASTA-like (text),	Sequence,	Sequence record
+NetMHC,	 input,	 FASTA,	Sequence,	Sequence record
+COV2HTML,	 input,	 GFF3,	Data,	Sequence features
+fqconvert,	 output,	 FASTQ-sanger,	Data,	Sequence trace,	 Sequence record
+Bayesembler,	 input,	 BAM,	Sequence alignment,	Pair sequence alignment
+MS-Isotope,	 input,	 raw,	Data,	Sequence
+MS-Isotope,	 output,	 HTML,	Data,	Report
+bam2fastq,	 output,	 FASTQ-sanger,	Data,	Sequence trace,	 Sequence record
+bam2fastq,	 output,	 FASTQ-sanger,	Data,	Sequence trace,	 Sequence record
+bam2fastq,	 output,	 FASTQ-sanger,	Data,	Sequence trace,	 Sequence record
+prepareannotation,	 input,	 GFF,	Data,	Sequence features
+prepareannotation,	 output,	 GFF3,	Data,	Sequence features
+ArchaeaFun,	 input,	 FASTA,	Sequence,	Sequence record
+compareoverlapping_parallel,	 input,	 GFF,	Data,	Sequence features
+compareoverlapping_parallel,	 input,	 GFF3,	Data,	Sequence features
+compareoverlapping_parallel,	 input,	 GTF,	Data,	Sequence features
+NetUTR,	 input,	 FASTA,	Sequence,	Sequence record
+plotcoverage,	 input,	 GFF,	Data,	Sequence features
+plotcoverage,	 input,	 GFF3,	Data,	Sequence features
+plotcoverage,	 input,	 GTF,	Data,	Sequence features
+plotcoverage,	 input,	 GFF,	Data,	Sequence features
+plotcoverage,	 input,	 GFF3,	Data,	Sequence features
+plotcoverage,	 input,	 GTF,	Data,	Sequence features
+Promoter,	 input,	 FASTA,	Sequence,	Sequence record
+JASS,	 input,	 HDF5,	Data,	Trajectory data
+JASS,	 output,	 HDF5,	Data,	Trajectory data
+colorgff,	 input,	 GFF,	Data,	Sequence features
+colorgff,	 output,	 GFF3,	Data,	Sequence features
+gmap_build,	 input,	 GTF,	Data,	Sequence features
+gmap_build,	 input,	 GFF3,	Data,	Sequence features
+trimsequences,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+trimsequences,	 output,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+trimsequences,	 output,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+trimsequences,	 output,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+NetPhosK,	 input,	 FASTA,	Sequence,	Sequence record
+NetAcet,	 input,	 FASTA,	Sequence,	Sequence record
+NetAspGene,	 input,	 FASTA,	Sequence,	Sequence record
+writerestohtml,	 input,	 GFF3,	Data,	Sequence features
+writerestohtml,	 input,	 GFF3,	Data,	Sequence features
+writerestohtml,	 input,	 GFF3,	Data,	Sequence features
+writerestohtml,	 input,	 GFF3,	Data,	Sequence features
+writerestohtml,	 input,	 GFF3,	Data,	Sequence features
+writerestohtml,	 input,	 GFF3,	Data,	Sequence features
+NetMHCIIpan,	 input,	 FASTA,	Sequence,	Sequence record
+Clustal Omega (EBI),	 input,	 FASTA,	Sequence,	Sequence record
+listannotation,	 input,	 GFF,	Data,	Sequence features
+NetPhosBac,	 input,	 FASTA,	Sequence,	Sequence record
+MethylAid,	 input,	 IDAT,	Microarray hybridisation data,	Raw microarray data
+HMMgene,	 input,	 FASTA,	Sequence,	Sequence record
+pymzML,	 input,	 mzML,	Data,	Mass spectrometry data
+pymzML,	 output,	 mzML,	Data,	Mass spectrometry data
+frogs_preprocess,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+frogs_preprocess,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+frogs_preprocess,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
+frogs_preprocess,	 input,	 FASTQ,	Data,	Sequence trace,	 Sequence record
