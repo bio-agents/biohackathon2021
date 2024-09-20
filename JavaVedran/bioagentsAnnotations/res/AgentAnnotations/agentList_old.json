@@ -1,25 +1,3 @@
-[
-	"bioagents:comet",
-	"bioagents:enrichnet",
-	"bioagents:genetrail",
-	"bioagents:genetrail2",
-	"bioagents:gprofile_r",
-	"bioagents:idconvert",
-	"bioagents:isobar",
-	"bioagents:libra",
-	"bioagents:msconvert",
-	"bioagents:mzXMLplot",
-	"bioagents:Pep3D",
-	"bioagents:PeptideProphet",
-	"bioagents:peptideshaker",
-	"bioagents:proteinprophet",
-	"bioagents:protk",
-	"bioagents:PTMProphet",
-	"bioagents:ssrcalc",
-	"bioagents:searchgui",
-	"bioagents:Tandem2XML",
-	"bioagents:rt",
-	"bioagents:xml2tsv",
-	"bioagents:xtandem",
-	"bioagents:extract_protein_names"
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:85600d0d192df82aeacb176410a24a76f7ae96b2b1f77bcd02030100184092fa
+size 553

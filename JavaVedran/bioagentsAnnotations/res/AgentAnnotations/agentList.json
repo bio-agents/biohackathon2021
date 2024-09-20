@@ -1,24 +1,3 @@
-[
-	"bioagents:fastqc"
-	,"bioagents:pear"
-	,"bioagents:qiime"
-	,"bioagents:qiime2"
-	,"bioagents:vsearch"	
-	,"bioagents:cutadapt"
-	,"bioagents:cutadapt_1.12"
-	,"bioagents:cd-hit"
-	,"bioagents:swarm"
-	,"bioagents:sortmerna"
-	,"bioagents:dada2"
-	,"bioagents:blast"
-	,"bioagents:MAFFT"
-	,"bioagents:infernal"
-	,"bioagents:clustalw"
-	,"bioagents:muscle"
-	,"bioagents:raxml"
-	,"bioagents:fasttree"
-	,"bioagents:krona"
-	,"bioagents:ChannelsDB"
-	,"bioagents:pyDockSAXS"
-]
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:87b49ac082af19cd8ef1a779a63ac57080665f6766ce6e8d42b43c2e45581353
+size 464
